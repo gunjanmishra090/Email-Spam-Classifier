@@ -1,6 +1,6 @@
 # Email Spam Classifier
 
-This is a machine learning project that classifies emails as **Spam** or **Not Spam** using natural language processing (NLP) and the Naive Bayes algorithm.
+This is a machine learning project that classifies emails as **Spam** or **Not Spam** using natural language processing and the Naive Bayes algorithm.
 
 ## Features
 
