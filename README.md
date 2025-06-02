@@ -6,7 +6,7 @@ This is a machine learning project that classifies emails as **Spam** or **Not S
 
 - Preprocessing: Cleaning, stopword removal, stemming.
 - Feature extraction: TF-IDF vectorization.
-- Evaluation: Accuracy, precision, recall
+- Evaluation: Accuracy, precision, recall.
 - User input prediction support
 
 ## Technologies Used
